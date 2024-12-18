@@ -1,5 +1,5 @@
 # Konfigurasi sumber video RTSP
-VIDSOURCE="rtsp://admin:tri@2024@103.195.65.141:554/Streaming/Channels/101"
+VIDSOURCE="Alamat RTSP"
 
 # Opsi Audio
 AUDIO_OPTS="-c:a aac -b:a 128k -ac 2"
